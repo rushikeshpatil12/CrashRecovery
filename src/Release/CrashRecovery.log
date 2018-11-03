@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  CrashRecovery.cpp
+  main.cpp
+  Settings.cpp
+  Generating code
+  68 of 239 functions (28.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CrashRecovery.vcxproj -> C:\src\BxTest\CrashRecovery\Release\CrashRecovery.exe
+  CrashRecovery.vcxproj -> C:\src\BxTest\CrashRecovery\Release\CrashRecovery.pdb (Full PDB)
