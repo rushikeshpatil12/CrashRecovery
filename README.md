@@ -1,5 +1,4 @@
 # CrashRecovery
-=============
 CrashRecovers demonstrates recovery mechanism from crashes/hangs using a simple do-nothing app. This app stays alive, recovers and restarts from a crash or a hang situation. 
 In case of crashes/hangs, it creates and saves the application state(memory dump) that can be used for later troubleshooting.
 
